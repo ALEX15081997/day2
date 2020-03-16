@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.a {
+    border: 2px solid rgb(148, 147, 147);
+}
+
+.b {
+    border: 2px solid rgb(148, 147, 147);
+}
+
+.c {
+    border: 2px solid rgb(148, 147, 147);
+}
+
+.d {
+    border: 2px solid rgb(148, 147, 147);
+}
+
+.footer {
+    margin-left: 80px;
+    font-size: 18px;
+}
