@@ -1,0 +1,40 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.a {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 30px;
+}
+
+.a {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.a div {
+    border: 2px solid rgb(194, 193, 193);
+    border-radius: 10px;
+}
+
+.a div:first-child {
+    margin-left: 25%;
+}
+
+.a div:last-child {
+    margin-right: 25%;
+}
+
+.footer {
+    margin-left: 80px;
+    font-size: 18px;
+}
